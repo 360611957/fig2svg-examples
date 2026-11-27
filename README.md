@@ -2,7 +2,7 @@
 
 A curated open collection of layered, editable SVG reconstructions converted from flat raster scientific schematics, CFD contour plots, and technical diagrams — built with [Fig2SVG](https://fig2svg.online/).
 
-![Fig2SVG Interactive Before and After Vector Workbench](assets/01-hero-fig2svg.png)
+![Fig2SVG Interactive Before and After Vector Workbench](01-hero-fig2svg.png)
 
 Unlike classic bitmap auto-tracers that outline glyphs into uneditable polygons, every SVG in [`examples/`](examples/) keeps:
 
@@ -17,7 +17,7 @@ Unlike classic bitmap auto-tracers that outline glyphs into uneditable polygons,
 
 | Nature-Style Perovskite-Silicon Tandem Schematic | Transonic Airfoil CFD Contour Plot |
 | :---: | :---: |
-| ![Perovskite-Silicon Tandem Solar Cell Side-by-Side Vector Inspector](assets/02-nature-tandem-inspector.png) | ![Transonic Airfoil CFD Side-by-Side Vector Inspector](assets/03-cfd-airfoil-inspector.png) |
+| ![Perovskite-Silicon Tandem Solar Cell Side-by-Side Vector Inspector](02-nature-tandem-inspector.png) | ![Transonic Airfoil CFD Side-by-Side Vector Inspector](03-cfd-airfoil-inspector.png) |
 
 ---
 
